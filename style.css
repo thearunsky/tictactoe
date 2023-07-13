@@ -22,8 +22,8 @@ nav{
 
 .container {
     display: grid;
-    grid-template-rows: repeat(3, 18vh);
-    grid-template-columns: repeat(3, 18vh);
+    grid-template-rows: repeat(3, 10vh);
+    grid-template-columns: repeat(3, 10vh);
 }
 
 .box {
